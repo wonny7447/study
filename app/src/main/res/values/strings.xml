@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Study</string>
+
+    <!-- 구글 로그인 String 설정 -->
+    <string name="signin_google">Google login</string>
+
+    <!-- etc -->
+    <item name="visible" type="id" />
+    <item name="masked" type="id" />
+
+</resources>
